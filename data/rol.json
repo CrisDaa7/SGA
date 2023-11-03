@@ -1,0 +1,1 @@
+{"controlador.ed.lista.ListaEnlazada":{"cabecera":{"info":{"@class":"modelo.Rol","id":1,"rol":"Estudiante"},"sig":{"info":{"@class":"modelo.Rol","id":2,"rol":"Docente"},"sig":{"info":{"@class":"modelo.Rol","id":3,"rol":"Administrador"}}}},"size":3}}
